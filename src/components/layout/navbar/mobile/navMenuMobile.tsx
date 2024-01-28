@@ -102,7 +102,7 @@ const NavMenuMobile = () => {
                 );
               })}
               <Link
-                href="https://github.com/JesseKoldewijn/Jereko"
+                href="https://github.com/JesseKoldewijn/Threejs-Jereko"
                 className="flex w-full items-center justify-center gap-2 rounded-lg border border-foreground p-2"
               >
                 <Github className="h-5" />

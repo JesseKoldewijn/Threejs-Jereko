@@ -1,6 +1,6 @@
 "use client";
 
-import { Github, Linkedin, List, ListChecks, User } from "lucide-react";
+import { Github, List, ListChecks, User } from "lucide-react";
 import { createContext, useContext, useEffect, useState } from "react";
 
 import { useRouter } from "next/navigation";
@@ -70,7 +70,10 @@ const CommandMenuProvider = ({ children }: { children: React.ReactNode }) => {
           break;
         }
         case "o": {
-          window.open("https://github.com/JesseKoldewijn/Jereko", "_blank");
+          window.open(
+            "https://github.com/JesseKoldewijn/Threejs-Jereko",
+            "_blank",
+          );
           setOpen(false);
           break;
         }
