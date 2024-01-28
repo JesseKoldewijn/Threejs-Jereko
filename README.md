@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Jereko 👋</h1>
+<h1 align="center">Welcome to Threejs - Jereko 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/JesseKoldewijn/Jereko/blob/main/LICENCE" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Blazingly fast App Router based Next.js application used as my personal (portfolio) website.
+> A Next.js-based project in where I showcase my learnings about and current experience with Three.js, React Three Fiber and such tech.
 
 ## Install
 
